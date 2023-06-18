@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @skyforms!
-- 👀 I’m interested in full-stack development, data analytics, and machine learning.
+- 👀 I’m interested in full-stack development, UX, data analytics, and machine learning.
 - 🌱 I’m currently enrolled in the Full-Stack Bootcamp by Zuitt
 - 📫 You can reach me on LinkedIn @ https://www.linkedin.com/in/maimdls/ and Twitter @ itsbatMAI. 
